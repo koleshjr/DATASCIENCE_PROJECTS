@@ -98,4 +98,8 @@ Feel free to explore the diverse projects presented here, each designed to demon
     - *Aim:* Aiding Zindi in establishing and tracking user engagement performance.
     - *Technologies:* Python, Machine Learning.
 
-All the mentioned projects have been included in the portfolio with their respective overviews, aims, and technologies used. If you have any specific preferences or additional details you'd like to include, feel free to let me know!
+## Future Developments
+
+Continuing to explore innovative solutions in data science and machine learning, I am committed to advancing AI technology for impactful applications. Stay tuned for updates and new projects that push the boundaries of what's possible in the realm of data science and machine learning.
+
+Thank you for exploring my Data Science and Machine Learning Portfolio!
